@@ -36,6 +36,11 @@
 *.x86_64
 *.hex
 hello
+main
+
+# Debug files
+*.dSYM/
+
 
 # Debug files
 *.dSYM/
